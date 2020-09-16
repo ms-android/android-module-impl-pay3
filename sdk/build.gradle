@@ -34,3 +34,5 @@ dependencies {
     debugImplementation "com.ms:android-module-super:latest-DEBUG"
 
 }
+
+apply from: "./maven_publish.gradle"
